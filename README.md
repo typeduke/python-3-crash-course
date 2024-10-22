@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/python-3-crash-course
+You can find it here: https://github.com/pygumby/python-3-crash-course
